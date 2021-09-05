@@ -5,6 +5,7 @@
 - Python(파이썬)
   - Pandas 도큐먼트 : https://pandas.pydata.org/docs/user_guide/index.html
   - Pandas 10분 요약 : https://pandas.pydata.org/docs/user_guide/10min.html
+  - svm(suport vector machine) : https://hleecaster.com/ml-svm-concept/
 
 - Kaggle(캐글)
   - url : https://www.kaggle.com/
