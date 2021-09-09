@@ -3,6 +3,7 @@
 
 ### 데이터 사이언스 참고 
 - Python(파이썬)
+  - 데이터사이언스스쿨 : https://datascienceschool.net/intro.html
   - Pandas 도큐먼트 : https://pandas.pydata.org/docs/user_guide/index.html
   - Pandas 10분 요약 : https://pandas.pydata.org/docs/user_guide/10min.html
   - svm(suport vector machine) : 
